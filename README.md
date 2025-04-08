@@ -18,4 +18,14 @@ para analisar e visualizar dados de morbidade, facilitando a identificação de
 padrões e tendências que podem informar políticas de saúde pública e práticas 
 clínicas.
 
+## Federação com maior número de óbitos
+
 ![image](https://github.com/user-attachments/assets/87f6984b-2f75-4a7d-ae8f-2ff29e9adcd2)
+
+## Representatividade de São Paulo  
+
+![image](https://github.com/user-attachments/assets/e119a575-a96f-407a-8c06-d57ca2b58200)
+
+## Federação com menor número de óbitos
+
+![image](https://github.com/user-attachments/assets/d9879aa3-66c1-4a77-9256-39cfc3dd1aa5)
