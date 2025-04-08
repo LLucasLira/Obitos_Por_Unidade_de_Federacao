@@ -1,7 +1,7 @@
 # Óbitos por Unidade de Federação
 
 Este documento apresenta um estudo sobre o número de óbitos no Brasil 
-referente a morbidade, com dados retirados do TabNet do SUS.  
+referente a morbidade, com dados retirados do TabNet do SUS. (Referência de 2008 até Janeiro de 2025)  
 Morbidade é um termo que se refere ao estado de ter uma doença ou condição 
 médica específica. É frequentemente usado para descrever a incidência de 
 doenças em uma população, ou seja, a frequência com que essas doenças 
